@@ -1,16 +1,23 @@
-# pet_shop_app_01
+# Pet Adoption App
 
-A new Flutter project.
+## Support
 
-## Getting Started
+https://www.buymeacoffe.com/syarifhidayat
+https://sociabuzz.com/syarifhidayatullah2020/tribe
 
-This project is a starting point for a Flutter application.
+## UI/UX
 
-A few resources to get you started if this is your first Flutter project:
+https://dribbble.com/shots/14930598-Pet-Adoption-App
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Youtube
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+https://youtu.be/uXs31HSMidA
+
+## Preview
+
+<p align="middle">
+<img src="assets/previews/onboard.png" alt="OnBoard" width="200">
+<img src="assets/previews/home.png" alt="HomePage" width="200">
+<img src="assets/previews/detail1.png" alt="Detail" width="200">
+<img src="assets/previews/detail2.png" alt="Detail" width="200">
+</p>
