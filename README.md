@@ -21,3 +21,4 @@ https://youtu.be/uXs31HSMidA
 <img src="assets/previews/detail1.png" alt="Detail" width="200">
 <img src="assets/previews/detail2.png" alt="Detail" width="200">
 </p>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=sya-hid.pet_adoption_app"/>  
